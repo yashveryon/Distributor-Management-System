@@ -30,5 +30,5 @@ Frontend: HTML and CSS
 This project serves as a strong portfolio piece, showcasing practical experience in database-driven application development, backend logic, and structured code organization.
 
 
-Sources and related content
+
 
